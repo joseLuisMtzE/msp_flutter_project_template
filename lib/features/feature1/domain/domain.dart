@@ -1,0 +1,1 @@
+// export all resources from the 'domain' directory (datasources, entities, repositories, etc)

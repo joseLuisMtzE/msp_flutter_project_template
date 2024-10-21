@@ -1,0 +1,1 @@
+// export all resources from the 'screens' and 'widgets' directory (constants, router, theme, etc)

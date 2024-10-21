@@ -1,0 +1,1 @@
+// export all resources from the 'shared' directory (infrastructure, widgets, etc)
