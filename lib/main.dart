@@ -15,6 +15,7 @@ class MainApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Hola Microsip!'),
+          backgroundColor: const Color.fromRGBO(255, 134, 35, 1),
         ),
         body: const Center(
           child: Text(
